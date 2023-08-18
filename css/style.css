@@ -64,7 +64,7 @@ body {
 }
 
 .calendar__td.active {
-  border: 1px solid red;
+  background-color: #9295af;
 }
 
 .calendar__field-title {
